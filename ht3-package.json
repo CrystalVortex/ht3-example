@@ -1,0 +1,5 @@
+{
+  "name" : "example-package",
+  "dep" : "requirements.txt"
+  "extra_commands" : "echo Install Finished for example package, run 'example-installed' to see your installed package"
+}
